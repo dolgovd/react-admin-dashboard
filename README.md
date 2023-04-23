@@ -1,2 +1,7 @@
-# react-admin-dashboard
-React Admin Dashboard
+# React Admin Dashboard
+
+## List of used packages
+TBU
+
+## List of features
+TBU
